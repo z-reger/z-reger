@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Ansible-%2361663A.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
 ### ☁️ Cloud Services
@@ -57,7 +56,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z-reger&show_icons=true&theme=tokyonight&hide_border=true" alt="z-reger's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=z-reger&theme=tokyonight&hide_border=true" alt="z-reger's GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z-reger&layout=compact&theme=tokyonight&hide_border=true" alt="z-reger's Top Languages"/>
 </div>
@@ -77,9 +75,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zach" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/zach" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:zach@example.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
