@@ -2,25 +2,26 @@ name: Generate Snake
 
 on:
   schedule: 
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v2
-      - name: Generate the Snake
-        uses: Platane/snk@master
+
+      - name: Generate Snake
+        uses: Platane/snk@v2.0.0  # Specify the latest stable version
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: z-reger  # Replace with your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push the Snake
+      - name: Push generated Snake
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Generated the Snake"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Generated Snake"
           git push
