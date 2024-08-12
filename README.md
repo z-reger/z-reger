@@ -56,6 +56,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z-reger&show_icons=true&theme=tokyonight&hide_border=true" alt="z-reger's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=z-reger&theme=tokyonight&hide_border=true" alt="z-reger's GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z-reger&layout=compact&theme=tokyonight&hide_border=true" alt="z-reger's Top Languages"/>
 </div>
@@ -65,7 +66,7 @@
 <h2 align="center">🎨 3D Contributions</h2>
 
 <div align="center">
-  <img src="https://github.com/z-reger/z-reger/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github.com/z-reger/z-reger/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
 
 ---
