@@ -74,10 +74,7 @@
 <h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/
-zachryan-reg
-
-" target="_blank">
+ <a href="https://www.linkedin.com/in/zachryan-reg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:regerzach1@gmail.com">
