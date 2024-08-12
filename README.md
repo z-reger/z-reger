@@ -63,10 +63,8 @@
 
 ---
 
-<h2 align="center">🎨 3D Contributions</h2>
-
 <div align="center">
-  <img src="https://github.com/z-reger/z-reger/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
 </div>
 
 ---
@@ -77,6 +75,9 @@
  <a href="https://www.linkedin.com/in/zachryan-reg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+    <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="mailto:regerzach1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -85,3 +86,15 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
 </p>
+
+### 🖼️ Contributions
+
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+  <img src="https://github.com/z-reger/z-reger/blob/main/contributions.svg" alt="Contributions"/>
+</div>
+### 🖼️ Contributions Over the Year
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z-reger&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" alt="GitHub Contributions" style="border-radius: 8px;"/>
+</div>
+
