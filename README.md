@@ -87,14 +87,6 @@
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
 </p>
 
-### 🖼️ Contributions
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <img src="https://github.com/z-reger/z-reger/blob/main/contributions.svg" alt="Contributions"/>
-</div>
-### 🖼️ Contributions Over the Year
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z-reger&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" alt="GitHub Contributions" style="border-radius: 8px;"/>
-</div>
 
